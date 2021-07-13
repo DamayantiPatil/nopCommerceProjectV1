@@ -1,0 +1,4 @@
+# Created at 2021-07-13T17:09:51.523
+Boot Manifest-JAR contains absolute paths in classpath 'D:\BackupProgramEclipse12-07-21\nopCommerceProjectV1\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
